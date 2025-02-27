@@ -1,4 +1,4 @@
-# MLRH: A complete HR management solution
+# MLRH: Solução Completa para Gestão de RH
 🇧🇷
 ## Informações Gerais
 O projeto se encontra em fase de desenvolvimento, e está dividido em dois repositórios principais:
