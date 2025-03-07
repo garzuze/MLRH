@@ -7,16 +7,18 @@ O projeto se encontra em fase de desenvolvimento, e está dividido em dois repos
 - <a href="https://github.com/garzuze/MLRH_frontend">MLRH_frontend</a>
 
 ## Objetivos
-
-- MLRH se propõe a centralizar todas as operações relacionadas ao processo de Recrutamento e Seleção, dentre elas:
+MLRH se propõe a centralizar todas as operações relacionadas ao processo de Recrutamento e Seleção, dentre elas:
   - Cadastro de clientes e criação de propostas
   - Criação de vagas e pareceres
   - Cadastro de currículos 
 
 ## Funcionalidades
-- No momento, já temos:
-  - Backend em Django completamento construído, com todas as models
-  - Sistema de autenticação e criação de usuários
+### Implementadas no momento
+  **Backend:**
+  - Backend em Django completamento construído, com todas as models;
+  - Sistema de autenticação e registro de usuários;
+
+  **Frontend:**    
   - Painel de Dashboard com seção de vendas
   - Criação automática de propostas com exportação para PDF 
 
