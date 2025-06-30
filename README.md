@@ -8,12 +8,9 @@
 
 This project is built with TypeScript, React, and Tailwind CSS on the frontend, and it works seamlessly with a Django-based backend to ensure an efficient user experience.
 
-![screenshot](https://github.com/garzuze/MLRH_frontend/blob/main/src/assets/mlrh-frontend-screenshot.png?raw=true)
+As the project is currently being used [in production](https://mlrh.com.br/) I can't display the source code publicly. However, my idea is to use this repository to highlight the key features and to serve as a demo of how the system works. I plan to add videos and gifs of the system here, in the future.
 
-## General Information  
-The project is currently under development and is divided into two main repositories:  
-- <a href="https://github.com/garzuze/MLRH_backend">MLRH_backend</a>  
-- <a href="https://github.com/garzuze/MLRH_frontend">MLRH_frontend</a>  
+![screenshot](https://github.com/garzuze/MLRH_frontend/blob/main/src/assets/mlrh-frontend-screenshot.png?raw=true)
 
 ## Objectives  
 MLRH aims to centralize all operations related to the Recruitment and Selection process, including:  
@@ -51,12 +48,9 @@ Developed by [Lucas Garzuze Cordeiro](https://github.com/garzuze)
 
 Esse projeto foi feito com Typescript, React e Tailwind no frontend, e trabalha em conjunto com um backend em Django, a fim de garantir uma experiência de usuário eficiente.
 
-![screenshot](https://github.com/garzuze/MLRH_frontend/blob/main/src/assets/mlrh-frontend-screenshot.png?raw=true)
-## Informações Gerais
-O projeto se encontra em fase de desenvolvimento, e está dividido em dois repositórios principais:
+Como o projeto está sendo utilizado [em produção](https://mlrh.com.br/) atualmente, eu não posso deixar o código fonte público. De qualquer forma, a ideia deste repositório é destacar as principais funcionalidades e demonstrar como o sistema funciona. Eu planejo adicionar vídeos e GIFs do sistem aqui na futuro.
 
-- <a href="https://github.com/garzuze/MLRH_backend">MLRH_backend</a>
-- <a href="https://github.com/garzuze/MLRH_frontend">MLRH_frontend</a>
+![screenshot](https://github.com/garzuze/MLRH_frontend/blob/main/src/assets/mlrh-frontend-screenshot.png?raw=true)
 
 ## Objetivos
 MLRH se propõe a centralizar todas as operações relacionadas ao processo de Recrutamento e Seleção, dentre elas:
